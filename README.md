@@ -7,5 +7,5 @@ npm run compiler
 
 **Autorun on main.js change**
 ```Bash
-npm run compiler
+npm run watcher
 ```
