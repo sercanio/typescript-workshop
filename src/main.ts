@@ -14,4 +14,4 @@ function greet(person: string, date: Date) {
   console.log(`Hello ${person}, today is ${date.toDateString()}!`);
 }
 
-greet(user.name, new Date());
+greet(user.name + ' :)', new Date());

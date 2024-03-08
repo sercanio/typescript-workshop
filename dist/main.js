@@ -7,5 +7,5 @@ console.log(user.name);
 function greet(person, date) {
     console.log(`Hello ${person}, today is ${date.toDateString()}!`);
 }
-greet(user.name, new Date());
+greet(user.name + ' :)', new Date());
 //# sourceMappingURL=main.js.map
